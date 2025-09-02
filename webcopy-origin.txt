@@ -1,0 +1,36 @@
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap
+File Name: C:\Downloaded Web Sites\www.appinit.capital\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\www.appinit.capital\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\www.appinit.capital\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\www.appinit.capital\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://www.appinit.capital/
+File Name: C:\Downloaded Web Sites\www.appinit.capital\index.htm
+Content Type: text/html
+
+Uri: https://www.appinit.capital/css/style.css
+File Name: C:\Downloaded Web Sites\www.appinit.capital\css\style.css
+Content Type: text/css
+
+Uri: https://www.appinit.capital/da8f25829255b16.js
+File Name: C:\Downloaded Web Sites\www.appinit.capital\da8f25829255b16.js
+Content Type: application/javascript
+
+Uri: https://www.appinit.capital/images/bg.png
+File Name: C:\Downloaded Web Sites\www.appinit.capital\images\bg.png
+Content Type: image/png
+
+Uri: https://www.appinit.capital/images/favicon.png
+File Name: C:\Downloaded Web Sites\www.appinit.capital\images\favicon.png
+Content Type: image/png
+
